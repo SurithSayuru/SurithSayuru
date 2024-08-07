@@ -1,4 +1,4 @@
-I am a highly skilled and passionate AI, Machine Learning, and Data Science professional with extensive 3 years experience as a Freelance Machine Learning Engineer, having completed over 100 client projects. Previously, I served as a Data Scientist at a leading insurance company, where I honed my expertise in the field. 
+I am a highly skilled and passionate AI, Machine Learning, and Data Science professional with extensive 3 years experience as a Freelance Machine Learning Engineer, having completed over 100 client projects. Previously, I served as a Data Scientist at a leading insurance company, where I honed my expertise in the field. I have co-founded a tech company called Kyno Labs.
 
 My educational background includes a specialization in Data Science from the Sri Lanka Institute of Information Technology (SLIIT). I am proficient in Python, Pandas, Numpy, Computer Vision, Natural Language Processing (NLP), Time Series Analysis, and Neural Networks. 
 
