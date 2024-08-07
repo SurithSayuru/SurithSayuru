@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SurithSayuru
-- 👀 I’m interested in Data Science, Machine learning, Deep learning
-- 🌱 I’m currently pursuing a IT degree at SLIIT 
+I am a highly skilled and passionate AI, Machine Learning, and Data Science professional with extensive 3 years experience as a Freelance Machine Learning Engineer, having completed over 100 client projects. Previously, I served as a Data Scientist at a leading insurance company, where I honed my expertise in the field. 
 
-<!---
-SurithSayuru/SurithSayuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My educational background includes a specialization in Data Science from the Sri Lanka Institute of Information Technology (SLIIT). I am proficient in Python, Pandas, Numpy, Computer Vision, Natural Language Processing (NLP), Time Series Analysis, and Neural Networks. 
+
+I have undertaken numerous Machine Learning and Deep Learning projects throughout my career, showcasing my ability to deliver innovative solutions. My professional development is further demonstrated by completing multiple certifications, including Kaggle Certifications and DataCamp Machine Learning courses. I pride myself on my strong communication skills, enabling me to effectively collaborate with clients and stakeholders to achieve desired outcomes. My dedication to continuous learning and application of cutting-edge technologies positions me as a valuable asset in the field of Data Science and Machine Learning.
